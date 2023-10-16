@@ -4,8 +4,6 @@ project(p101_c_examples
         DESCRIPTION ""
         LANGUAGES C)
 
-message(STATUS "Compiler being used: ${CMAKE_C_COMPILER}")
-
 add_subdirectory(complex)
 add_subdirectory(ctype)
 add_subdirectory(fenv)

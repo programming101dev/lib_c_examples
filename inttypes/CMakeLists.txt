@@ -3,5 +3,3 @@ project(p101_c_examples_inttypes
         VERSION 0.0.1
         DESCRIPTION ""
         LANGUAGES C)
-
-message(STATUS "Compiler being used: ${CMAKE_C_COMPILER}")
